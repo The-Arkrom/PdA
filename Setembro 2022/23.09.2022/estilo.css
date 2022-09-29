@@ -1,0 +1,11 @@
+img{
+    /* Altura */
+    height: 100px;
+    /* Largura */
+    width: 500px;
+}
+#img-tamanho{
+    height: 300px;
+    width: 300px;
+}
+/* Toda vez que eu tenho um id, referencio esse id no CSS  */
